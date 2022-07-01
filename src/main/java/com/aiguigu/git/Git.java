@@ -5,5 +5,7 @@ public class Git {
         System.out.println("hell git");
         System.out.println("hell git2");
         System.out.println("hell git2");
+        System.out.println("pull test");
+        
     }
 }
